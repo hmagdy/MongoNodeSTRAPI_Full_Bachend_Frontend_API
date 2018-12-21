@@ -1,0 +1,25 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "post",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "serial": {
+      "default": "",
+      "type": "integer"
+    },
+    "Name": {
+      "default": "",
+      "type": "string"
+    },
+    "Family": {
+      "default": "",
+      "type": "string"
+    }
+  }
+}
